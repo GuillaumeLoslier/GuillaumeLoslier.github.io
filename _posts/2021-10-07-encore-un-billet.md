@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+published: true
+title: Encore un autre billet
 ---
 ## Un autre billet
 
