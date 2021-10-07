@@ -1,8 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Mon premier billet
 published: true
 ---
-## This is your first blog with Jekyll.
+## Bonjour monde!
 
-## Congratulations!
