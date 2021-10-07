@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title : Je teste!
+published: true
+
 ---
 ## Mon premier billet
 
