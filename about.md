@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tagcloud
 title: About
 permalink: /about/
 ---
