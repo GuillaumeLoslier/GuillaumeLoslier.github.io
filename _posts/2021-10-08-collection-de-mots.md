@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+tag: design-web
+title: Collection de mots
 ---
 Aujourd'hui j'ai intégré la possibilité de générer des mots-clés à mon blogue. J'ai fait cela en suivant  les conseils trouvés sur [le blogue de Long Qian](https://longqian.me/2017/02/09/github-jekyll-tag/).
 
