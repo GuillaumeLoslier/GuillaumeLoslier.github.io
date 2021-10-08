@@ -17,12 +17,7 @@
 html {
   font-size: 100%;
   background-image:linear-gradient(#baa4f4,#F1F8FF);
-}
 
-body {
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
-}
 
 .tag-box {
   list-style: none;
@@ -64,6 +59,17 @@ body {
   font-size: 10px;
   font-size: 0.625rem;
 }
+	
+	
+
+
+}
+
+body {
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
+}
+
 
 
 .container {
