@@ -1,8 +1,8 @@
 ---
 layout: post
-title : Je teste!
+title: Je teste!
 published: true
-
+tags: cooking
 ---
 ## Mon premier billet
 
