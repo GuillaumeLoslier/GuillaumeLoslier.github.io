@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Encore un autre billet
+tags: cooking
 ---
 ## Un autre billet
 
