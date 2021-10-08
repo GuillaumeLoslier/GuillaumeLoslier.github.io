@@ -17,51 +17,11 @@
 html {
   font-size: 100%;
   background-image:linear-gradient(#baa4f4,#F1F8FF);
-
-
-.tag-box {
-  list-style: none;
-  margin: 0;
-  padding: 4px 0;
-  overflow: hidden;
-  *zoom: 1;
-}
-
-.tag-box:before, .tag-box:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-
-.tag-box:after {
-  clear: both;
-}
-
-.tag-box.inline li {
-  float: left;
-  font-size: 14px;
-  font-size: 0.875rem;
-  line-height: 2.5;
-}
-
-.tag-box a {
-  padding: 4px 6px;
-  margin: 2px;
-  background-color: #e6e6e6;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  text-decoration: none;
-}
-
-.tag-box a span {
-  vertical-align: super;
-  font-size: 10px;
-  font-size: 0.625rem;
-}
 	
-	
-
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;700;800&display=swap" rel="stylesheet">
 
 }
 
@@ -80,7 +40,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $Epilogue;
   color: $darkerGray;
   font-weight: bold;
 
