@@ -2,6 +2,6 @@
 layout: post
 title: Mon premier billet
 published: true
-tags: potato
+tags: design-web
 ---
-C'est ça qui est ça.
+J'ai construit ce blogue à partir du générateur de site statiques Jekyll. Je vais petit à petit l'améliorer dans les prochains jours. 
