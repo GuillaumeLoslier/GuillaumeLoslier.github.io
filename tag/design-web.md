@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Design web"
+title: "Mot-clé : Design web"
 tag: design-web
 ---
