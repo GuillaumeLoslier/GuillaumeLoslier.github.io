@@ -5,7 +5,7 @@ title: Walking upright
 tag: anatomy
 ---
 
-<table>
+<table class="table-latitude">
 <thead>
   <tr>
     <th></th>
