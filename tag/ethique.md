@@ -1,5 +1,6 @@
 ---
 layout: tagpage
-title: Mot-clé : Éthique
-tag: éthique
+title: "Mot-clé : Éthique"
+tag: ethique
 ---
+
