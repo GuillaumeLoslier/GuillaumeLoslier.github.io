@@ -1,6 +1,6 @@
 ---
-layout: post
 published: true
+layout: post
 title: Une interrogation indéfinie
 tags: philosophie simone-de-beauvoir éthique
 ---
