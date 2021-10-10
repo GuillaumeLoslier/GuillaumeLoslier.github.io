@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: simone de beauvoir
+title: Mot-clé : Simone de Beauvoir
 tag: simone-de-beauvoir
 ---
