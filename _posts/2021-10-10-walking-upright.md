@@ -5,8 +5,7 @@ title: Walking upright
 tag: anatomy
 ---
 
-## What makes us bipedal?
-### A comparison between ape and human anatomy
+What makes us bipedal? A comparison between ape and human anatomy
 
 <table class="table-latitude">
 <thead>
