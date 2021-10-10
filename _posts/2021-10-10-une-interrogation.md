@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Une interrogation indéfinie
-tag: philosophie simone-de-beauvoir éthique
+tag: philosophie, simone-de-beauvoir, éthique
 ---
 
 > Kierkegaard dit que ce qui oppose le pharisien à l'homme moral authentique, c'est que le premier considère son angoisse comme un gage certain de sa vertu ; du fait qu'il se demande : suis-je Abraham? il conclut : je suis Abraham ; mais la moralité réside dans la douleur d'une interrogation indéfinie. Le problème que nous posons n'est pas le même que celui de Kierkegaard ; ce qui nous importe, c'est de savoir, dans des conditions données, s'il faut ou non tuer Isaac. Mais nous pensions aussi que ce qui distingue le tyran de l'homme de bonne volonté, c'est que le premier se repose dans la certitude de ses buts, tandis que le second se demande dans une interrogation incessante : Est-ce bien à la libération des hommes que je travaille? Cette fin n'est-elle pas contestée par les sacrifices à travers lesquels je la vise? En posant ses fins, la liberté doit les mettre entre parenthèses, les confronter à chaque moment avec cette fin absolue qu'elle constitue elle-même et contester en son propre nom les moyens dont elle use pour se conquérir.
