@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: Mot-clé : anatomie
+title: Tag : anatomy
 tag: anatomy
 ---
