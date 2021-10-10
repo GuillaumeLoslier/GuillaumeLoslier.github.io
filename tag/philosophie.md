@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: Mot-clé : Philosophie
+title: "Mot-clé : Philosophie"
 tag: philosophie
 ---
