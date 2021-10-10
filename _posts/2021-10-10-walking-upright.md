@@ -5,7 +5,7 @@ title: Walking upright
 tag: anatomy
 ---
 
-What makes us bipedal? A comparison between ape and human anatomy based on De Silva's book : First Steps.
+What makes us bipedal? A comparison between ape and human anatomy based on De Silva's book : <i>First Steps</i>.
 
 <table class="table-latitude">
 <thead>
