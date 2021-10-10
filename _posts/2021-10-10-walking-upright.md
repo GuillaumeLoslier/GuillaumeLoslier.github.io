@@ -8,7 +8,8 @@ tag: anatomy
 <table class="table-latitude">
 <thead>
   <tr>
-    <th>   <br>Human<   </th>
+    <th></th>
+    <th>   <br>Human   </th>
     <th>   <br>Other   mammals  </th>
   </tr>
 </thead>
