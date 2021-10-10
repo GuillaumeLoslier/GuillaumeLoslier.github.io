@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-tag: design-web
+tag: philosophie simone-de-beauvoir
 title: Une interrogation
 ---
 
