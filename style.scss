@@ -16,6 +16,12 @@
 html {
   font-size: 100%;
   background-image:linear-gradient(#baa4f4,#F1F8FF);
+	
+	
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,500;1,400;1,700&display=swap" rel="stylesheet">
+	
 }
 
 body {
@@ -194,7 +200,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'Epilogue', sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -203,7 +209,9 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+   font-family: 'Epilogue', sans-serif;
   font-size: 16px;
+
 
   @include mobile {
     margin: 3px 0;
@@ -213,7 +221,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 18px;
 
   @include mobile {
