@@ -241,18 +241,6 @@ img {
   font-weight: 700;
 }
 
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Epilogue', sans-serif;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
 
   a {
     margin-left: 20px;
