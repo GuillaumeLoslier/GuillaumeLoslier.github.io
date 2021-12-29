@@ -18,8 +18,10 @@
 
 html {
   font-size: 100%;
-  background-image:linear-gradient(#baa4f4,#F1F8FF);
-}
+  background : url(/Images/background-lines-1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;}
 
 body {
   font-size: 1.3rem;
