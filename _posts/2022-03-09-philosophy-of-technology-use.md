@@ -80,7 +80,7 @@ I spoke last Sunday with my friend Bilal about the book Digital Minimalism, and 
 </td>
 <td>
 <p>Watch only with friends or family.</p>
-<p>Have a list of film d'auteur that you want to see.</p>
+<p>Have a list of film d'auteur that I want to see.</p>
 </td>
 </tr>
 </tbody>
