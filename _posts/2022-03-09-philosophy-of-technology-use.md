@@ -76,7 +76,7 @@ I spoke last Sunday with my friend Bilal about the book Digital Minimalism, and 
 <td>Netflix</td>
 <td>Entertainment</td>
 <td>
-<p>Mindless entertainment leaving me with empty feeling.</p>
+<p>Mindless entertainment leaving me with an empty feeling.</p>
 </td>
 <td>
 <p>Watch only with friends or family.</p>
