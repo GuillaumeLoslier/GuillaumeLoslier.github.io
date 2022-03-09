@@ -6,14 +6,17 @@ tag: philosophie
 ---
 I spoke last Sunday with my friend Bilal about the book Digital Minimalism, and how I had created a table in which I tried to find alternatives to the social media apps I was using. We have to be careful in how we use these technologies as we often end up wasting a great amount of time distracted by them.
 
-<table>
-<tbody>
+<table class="table-latitude">
+<thead>
 <tr>
 <td>What I use</td>
 <td>What I use it for</td>
 <td>Side effects</td>
 <td>Alternative medium or uses</td>
 </tr>
+  </thead>
+
+  <tbody>
 <tr>
 <td>Facebook</td>
 <td>
