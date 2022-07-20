@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 tag: danse
 title: Un plan pour une création
 ---
