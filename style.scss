@@ -4,7 +4,7 @@
 //
 // IMPORTS
 //
-
+{
 @import "reset";
 @import "variables";
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,500;1,400;1,700&family=Lato&display=swap');
@@ -18,10 +18,11 @@
 
 html {
   font-size: 100%;
-  background : url(/images/background-lines-1.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;}
+  background-color: #cbf3f0;
+  // background : url(/images/background-lines-1.jpg);
+  // background-repeat: no-repeat;
+  // background-attachment: fixed;
+  // background-size: cover;}
 
 body {
   font-size: 1.3rem;
@@ -362,3 +363,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+}}
