@@ -4,12 +4,9 @@
 //
 // IMPORTS
 //
-{
+
 @import "reset";
 @import "variables";
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,500;1,400;1,700&family=Lato&display=swap');
-}
-
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -18,13 +15,11 @@
 
 html {
   font-size: 100%;
-  background-color: #f1efe9;
-	}
+}
 
 body {
-  font-size: 1.3rem;
-font-family: 'Lato', sans-serif;
-  line-height: 1.4;
+	background: $white;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -36,9 +31,9 @@ font-family: 'Lato', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
- font-family: 'Epilogue', sans-serif;
+  font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: 700;
+  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -199,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: 'Epilogue', sans-serif;
+  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -208,9 +203,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-   font-family: 'Epilogue', sans-serif;
   font-size: 16px;
-
 
   @include mobile {
     margin: 3px 0;
@@ -218,33 +211,17 @@ img {
 }
 
 nav {
-	font-family: 'Epilogue', sans-serif;}
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
 
-
-.nav {
-  max-width: 67rem;
-  margin: 2rem auto 6rem;
-}
-.nav-list {
-  list-style-type: none;
-  display: grid;
-  grid-auto-flow: column;
-  justify-content: center;
-  font-size: 1.5rem;
-  grid-gap: 0.5rem;
-}
-.nav-list:before {
-  content: "|";
-  grid-column: 2;
-}
-.nav-list__link {
-  color: inherit;
-  text-decoration: none;
-}
-.nav-list__link--active {
-  font-weight: 700;
-}
-
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
 
   a {
     margin-left: 20px;
@@ -258,7 +235,7 @@ nav {
       color: $blue;
     }
   }
-
+}
 
 //
 // .main
@@ -305,59 +282,8 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
-/*********************/
-/* TABLES */
-/*********************/
-
-
-.table-latitude {
-  width: 100%;
-  caption {
-      text-transform: uppercase;
-      font-weight: bold;
-      color: $lfs-yellow;
-      text-align: center;
-  }
-  thead {
-      border-top: 2px solid $lfs-yellow;
-      border-bottom: 2px solid $lfs-yellow;
-      th {
-          text-transform: uppercase;
-          text-align: center;
-          padding: 10px;
-          color: $lfs-blue;
-          border: 1px solid #F1F1F1;
-      }
-  }
-  tbody {
-      tr {
-          border-bottom: 1px solid #F1F1F1;
-          color: $lfs-grey;
-          td {
-              padding: 10px;
-              border: 1px solid #F1F1F1;
-          }
-          th {
-              padding-left: 10px;
-              border: 1px solid #F1F1F1;
-          }
-      }
-  }
-  tfoot {
-      color: $lfs-yellow;
-      font-style: italic;
-      border-bottom: 2px solid $lfs-yellow;
-      tr {
-          td {
-              padding: 10px;
-              border: 1px solid #F1F1F1;
-          }
-      }
-  }
-}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-}}
