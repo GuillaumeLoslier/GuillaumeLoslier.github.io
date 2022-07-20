@@ -15,11 +15,14 @@
 
 html {
   font-size: 100%;
+background-color: #cbf3f0;
+
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+background-color: #cbf3f0;
+font-family: 'Lato', sans-serif;
+  line-height: 1.4;
   color: $darkGray;
 }
 
@@ -31,9 +34,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+ font-family: 'Epilogue', sans-serif;
   color: $darkerGray;
-  font-weight: bold;
+  font-weight: 700;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -110,6 +113,8 @@ img {
   max-width: 100%;
 }
 
+
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -145,6 +150,35 @@ img {
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
+
+nav {
+	font-family: 'Epilogue', sans-serif;}
+
+
+.nav {
+  max-width: 67rem;
+  margin: 2rem auto 6rem;
+}
+.nav-list {
+  list-style-type: none;
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  font-size: 1.5rem;
+  grid-gap: 0.5rem;
+}
+.nav-list:before {
+  content: "|";
+  grid-column: 2;
+}
+.nav-list__link {
+  color: inherit;
+  text-decoration: none;
+}
+.nav-list__link--active {
+  font-weight: 700;
+}
+
 
 //
 // .masthead
