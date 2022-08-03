@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-tags: [philosophie, Simone-de-Beauvoir]
+tags: [philosophie, simone-de-beauvoir]
 title: Une interrogation
 ---
 
