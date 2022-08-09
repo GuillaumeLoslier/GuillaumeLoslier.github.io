@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-tags: [évolution, société]
+tags: [evolution, société]
 title: La sélection naturelle et l'effet réversif
 ---
 
