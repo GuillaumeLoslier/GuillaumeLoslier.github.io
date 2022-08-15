@@ -5,25 +5,25 @@ title: The Ladder and The Cheese
 tag: danse
 ---
 
-<img src="/images/2022-07-09-the-ladder-and-the-cheese.svg" alt="Image of a Ladder" style="
+<img class="path" src="/images/2022-07-09-the-ladder-and-the-cheese.svg" alt="Image of a Ladder" style="
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  .path {
-    stroke-dasharray: 320;
-    stroke-dashoffset: 0;
-    animation: dash 10s ease infinite; 
-  }
-  @keyframes dash {
-    from {
-      stroke-dashoffset: 320;
+    .path {
+        stroke-dasharray: 320;
+        stroke-dashoffset: 0;
+        animation: dash 10s ease infinite; 
     }
-    to {
-      stroke-dashoffset: 0;
+    @keyframes dash {
+        from {
+        stroke-dashoffset: 320;
+        }
+        to {
+        stroke-dashoffset: 0;
+        }
     }
-  }
-}"/>
+    }"/>
 
 
 There is this myth in the dance world that dance mastery is a ladder that you climb. You learn this move, then you learn this move, and once you do all these moves well according to the other dancers, you're a dance master. That old-school way of thinking still permeates the dance world : festivals and dance schools, and dance companies. Maybe it comes from ballet, maybe it's something deeper than that, I don't know. But really, it's pretty obvious that dance is multi-faceted, and that knowledge in a dance form doesn't mean knowledge in the other. You could master dance forms, but not dance itself. You can become a versatile dancer that masters many forms, but you can never master them all, you will always have to make a choice in the type of dance training and dance movements you choose to do. That choice will speak about your values, the environment that you were brought in, the opportunities that you were given or not.<br>
