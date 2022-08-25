@@ -1,127 +1,183 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>
+      {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{
+      site.description }}
+    </title>
 
     {% include meta.html %}
-         
-      
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;700;800&display=swap" rel="stylesheet">
-      
-      
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ site.baseurl }}/style.css"
+    />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="{{ site.name }} - {{ site.description }}"
+      href="{{ site.baseurl }}/feed.xml"
+    />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    
-<!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
 
-    
-    
-    
-    
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+
     <style>
-      
+      /* Titles */
       h1 {
-        font-family: 'Epilogue', sans-serif;}
+        font-family: "Epilogue", sans-serif;
+      }
       h2 {
-        font-family: 'Epilogue', sans-serif;}
+        font-family: "Epilogue", sans-serif;
+      }
       h3 {
-        font-family: 'Epilogue', sans-serif;}
-        
-      nav
-        {
-           font-family: 'Epilogue', sans-serif;}
-      
+        font-family: "Epilogue", sans-serif;
+      }
+
+      /* Navigation */
+
+      nav {
+        font-family: "Epilogue", sans-serif;
+      }
+
+      /* Tables */
       .table-latitude {
-    width: 100%;
-    caption: {
-        text-transform: uppercase;
-        font-weight: bold;
-        color: $lfs-yellow;
-        text-align: center;
-    }
-    thead {
-        border-top: 2px solid $lfs-yellow;
-        border-bottom: 2px solid $lfs-yellow;
-        th {
+        width: 100%;
+        caption: {
+          text-transform: uppercase;
+          font-weight: bold;
+          color: $lfs-yellow;
+          text-align: center;
+        }
+        thead {
+          border-top: 2px solid $lfs-yellow;
+          border-bottom: 2px solid $lfs-yellow;
+          th {
             text-transform: uppercase;
             text-align: center;
             padding: 10px;
             color: $lfs-blue;
-            border: 1px solid #F1F1F1;
+            border: 1px solid #f1f1f1;
+          }
         }
-    }
-    tbody {
-        tr {
-            border-bottom: 1px solid #F1F1F1;
+        tbody {
+          tr {
+            border-bottom: 1px solid #f1f1f1;
             color: $lfs-grey;
             td {
-                padding: 10px;
-                border: 1px solid #F1F1F1;
+              padding: 10px;
+              border: 1px solid #f1f1f1;
             }
             th {
-                padding-left: 10px;
-                border: 1px solid #F1F1F1;
+              padding-left: 10px;
+              border: 1px solid #f1f1f1;
             }
+          }
         }
-    }
-    tfoot {
-        color: $lfs-yellow;
-        font-style: italic;
-        border-bottom: 2px solid $lfs-yellow;
-        tr {
+        tfoot {
+          color: $lfs-yellow;
+          font-style: italic;
+          border-bottom: 2px solid $lfs-yellow;
+          tr {
             td {
-                padding: 10px;
-                border: 1px solid #F1F1F1;
+              padding: 10px;
+              border: 1px solid #f1f1f1;
             }
+          }
         }
-    }
+      }
+
+      /* Tags */
+
+      .tag {
+        margin: 0 2px;
+        padding: 4px 10px;
+        background: #02995575;
+        color: #656073;
+        font-size: 80%;
+        border-radius: 30px;
+        font-family: sans-serif;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+
+      .tag:nth-of-type(2) {
+        background: #bd781762;
+        color: #656073;
+      }
+
+      .tag:nth-of-type(3) {
+        background: #e26c5a75;
+        color: #656073;
+
+      }
+      .tag:nth-of-type(4) {
+        background: #E1D6D9;
+
+      }
+     .tag:nth-of-type(5) {
+        background: #656073;
+        color: #C6BEC2;
+      }
+     .tag:nth-of-type(6) {
+        background: #AC7B84;
+        color: #C6BEC2;
+      }
+     .tag:nth-of-type(7) {
+        background: #4C243B;
+        color: #C6BEC2;
+      }
+
+.tag:hover {
+opacity:0.5
 }
-  
 
     </style>
-    
-    
   </head>
 
   <body>
-    
     <nav class="nav">
-  <ul class="nav-list">
-    <li class="nav-list__item">
-      <a class="nav-list__link" href="https://guillaume-l-p.com/">Accueil</a>
-    </li>
-    <li class="nav-list__item">
-      <a class="nav-list__link nav-list__link--active" href="https://blog-guillaume-l-p.netlify.app/">Blogue</a>
-    </li>
-  </ul>
-</nav>
-    
+      <ul class="nav-list">
+        <li class="nav-list__item">
+          <a class="nav-list__link" href="https://guillaume-l-p.com/"
+            >Accueil</a
+          >
+        </li>
+        <li class="nav-list__item">
+          <a
+            class="nav-list__link nav-list__link--active"
+            href="https://blog-guillaume-l-p.netlify.app/"
+            >Blogue</a
+          >
+        </li>
+      </ul>
+    </nav>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+    <div id="main" role="main" class="container">{{ content }}</div>
 
     <div class="wrapper-footer">
       <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
+        <footer class="footer">{% include svg-icons.html %}</footer>
       </div>
     </div>
 
