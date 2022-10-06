@@ -4,7 +4,7 @@ published: true
 title: Philosophy of Technology Use
 tag: philosophie
 ---
-I spoke last Sunday with my friend Bilal about the book Digital Minimalism, and how I had created a table in which I tried to find alternatives to the social media apps I was using. We have to be careful in how we use these technologies as we often end up wasting a great amount of time distracted by them.
+I'm spending a lot of time watching screens. I know I'm not alone in this. I spoke last Sunday with my friend Bilal about the book Digital Minimalism, and how I had created a table in which I tried to find alternatives to the social media apps I was using. We have to be careful in how we use these technologies as we often end up wasting a great amount of time distracted by them.
 
 <table class="table-latitude">
 <thead>

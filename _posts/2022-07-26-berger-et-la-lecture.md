@@ -5,6 +5,8 @@ title: La lecture du berger
 tag: lecture
 ---
 
+
+
 >-Vous avez le temps de lire quand vous gardez les moutons?<br>
 >-Oui, oh, pour ça c'est pas le temps qui nous manque, nous. Lire et méditer, surtout. Parce que la lecture en elle-même, c'est pas grand chose. C'est un point de départ, mais c'est surtout l'assimilation qu'on en fait qui compte.<br>
 >-Alors, au fond, l'important ce n'est pas de lire tous les jours, mais de réfléchir sur les livres qu'on a lu.<br>
