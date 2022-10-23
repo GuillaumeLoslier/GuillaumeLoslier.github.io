@@ -6,7 +6,7 @@ title: Système de navigation
 ---
 
 Le système de navigation de notre cerveau nous permet de nous retrouver dans l'espace, et ce, grâce à la mise en concert de plusieurs cellules spécialisées qui évaluent notre position, la direction de notre tête telle une boussole, les distances, notre position verticale relative et les limites des objets qui nous entourent.<br>
-La neuroscience, d'après Shane O'Mara, s'éloigne d'une conception du cerveau avec des zones spécifiques liées à l'audition, au mouvement, vers une vision du cerveau comme un réseau qui contrôle plusieurs zones en même temps, car des activités comme la marche, qui semblent simples à prime abord, demandent une coordination de plusieurs éléments. 
+La neuroscience, d'après Shane O'Mara, s'éloigne d'une conception du cerveau avec des zones spécifiques liées à l'audition, au mouvement, aux émotions, par exemple, vers une vision du cerveau comme un réseau qui contrôle plusieurs zones en même temps, car des activités comme la marche, qui semblent simples à prime abord, demandent une coordination de plusieurs éléments. 
 
 
 <br>
