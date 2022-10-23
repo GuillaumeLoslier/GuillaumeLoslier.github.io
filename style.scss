@@ -27,7 +27,7 @@ font-family: 'Lato', sans-serif;
 
 .container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(5rem, 3fr)); 
     /*Change min value to which you want it to be, can be in rem, em, vw etc.*/    
   margin: 0 auto;
   // max-width: 740px;
