@@ -73,7 +73,7 @@ a {
 	cursor: pointer;
   }
 
-
+/* 
 
 h1 {
     background: #02995575;
@@ -106,7 +106,7 @@ h1 {
  h1:nth-of-type(7) {
     background: #4C243B;
     color: #C6BEC2;
-  }
+  } */
 
 
 
@@ -296,6 +296,10 @@ nav {
 //
 // .main
 //
+
+.post {
+background: #02995575
+}
 
 .post h1 {
         background: #02995575;
