@@ -85,24 +85,24 @@ a {
     color: #656073;
   }
 
-  .posts h1:nth-child() {
+  .posts h1:nth-child(2) {
     background: #e26c5a75;
     color: #656073;
 
   }
-  .posts h1:nth-child() {
+  .posts h1:nth-child(3) {
     background: #E1D6D9;
 
   }
-  .posts h1:nth-child() {
+  .posts h1:nth-child(4) {
     background: #656073;
     color: #C6BEC2;
   }
-  .posts h1:nth-child() {
+  .posts h1:nth-child(5) {
     background: #AC7B84;
     color: #C6BEC2;
   }
-  .posts h1:nth-child() {
+  .posts h1:nth-child(6) {
     background: #4C243B;
     color: #C6BEC2;
   } 
