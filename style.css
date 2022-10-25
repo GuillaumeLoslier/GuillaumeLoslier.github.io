@@ -80,29 +80,29 @@ a {
     text-decoration: none;
   }
 
-  .posts h1:nth-of-type(2) {
+  .posts h1:nth-child() {
     background: #bd781762;
     color: #656073;
   }
 
-  .posts h1:nth-of-type(3) {
+  .posts h1:nth-child() {
     background: #e26c5a75;
     color: #656073;
 
   }
-  .posts h1:nth-of-type(4) {
+  .posts h1:nth-child() {
     background: #E1D6D9;
 
   }
-  .posts h1:nth-of-type(5) {
+  .posts h1:nth-child() {
     background: #656073;
     color: #C6BEC2;
   }
-  .posts h1:nth-of-type(6) {
+  .posts h1:nth-child() {
     background: #AC7B84;
     color: #C6BEC2;
   }
-  .posts h1:nth-of-type(7) {
+  .posts h1:nth-child() {
     background: #4C243B;
     color: #C6BEC2;
   } 
