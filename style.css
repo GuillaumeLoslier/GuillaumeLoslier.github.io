@@ -1,141 +1,10 @@
 
 
-  /* Titles */
-  h1 {
-    font-family: "Epilogue", sans-serif;
-  }
-  h2 {
-    font-family: "Epilogue", sans-serif;
-  }
-  h3 {
-    font-family: "Epilogue", sans-serif;
-  }
-
-  /* Navigation */
-
-  nav {
-    font-family: "Epilogue", sans-serif;
-  }
-  $blue: #4183C4;
-  #006ac6: #006ac6;
-  $lfs-yellow: #fab700;
-  #75787b: #75787b;
-  
-  
-  // Grays
-  $black: #000;
-  $darkerGray: #222;
-  $darkGray: #333;
-  $gray: #666;
-  $lightGray: #eee;
-  $white: #fff;
-  
-  /* Tables */
-  .table-latitude {
-    width: 100%;}
-
-
-    
-    caption: {
-      text-transform: uppercase;
-      font-weight: bold;
-      color: #fab700;
-      text-align: center;
-    }
-    thead {
-      border-top: 2px solid #fab700;
-      border-bottom: 2px solid #fab700;}
-
-    th {
-        text-transform: uppercase;
-        text-align: center;
-        padding: 10px;
-        color: #006ac6;
-        border: 1px solid #f1f1f1;
-      }
-    
-    tbody {
-      tr {
-        border-bottom: 1px solid #f1f1f1;
-        color: #75787b;
-        td {
-          padding: 10px;
-          border: 1px solid #f1f1f1;
-        }
-        th {
-          padding-left: 10px;
-          border: 1px solid #f1f1f1;
-        }
-      }
-    }
-    tfoot {
-      color: #fab700;
-      font-style: italic;
-      border-bottom: 2px solid #fab700;
-      tr {
-        td {
-          padding: 10px;
-          border: 1px solid #f1f1f1;
-        }
-      }
-    }
-  }
-
-  /* Tags */
-
-  .tag {
-    margin: 0 2px;
-    padding: 4px 10px;
-    background: #02995575;
-    color: #656073;
-    font-size: 80%;
-    border-radius: 30px;
-    font-family: sans-serif;
-    text-decoration: none;
-    text-transform: uppercase;
-  }
-
-  .tag:nth-of-type(2) {
-    background: #bd781762;
-    color: #656073;
-  }
-
-  .tag:nth-of-type(3) {
-    background: #e26c5a75;
-    color: #656073;
-
-  }
-  .tag:nth-of-type(4) {
-    background: #E1D6D9;
-
-  }
- .tag:nth-of-type(5) {
-    background: #656073;
-    color: #C6BEC2;
-  }
- .tag:nth-of-type(6) {
-    background: #AC7B84;
-    color: #C6BEC2;
-  }
- .tag:nth-of-type(7) {
-    background: #4C243B;
-    color: #C6BEC2;
-  }
-
-.tag:hover {
-opacity:0.5
-}
-
-
----
----
-
-//
-// IMPORTS
-//
-
 @import "reset";
 @import "variables";
+ 
+
+
 /* // Syntax highlighting @import is at the bottom of this file */
 
 /**************/
@@ -152,7 +21,7 @@ body {
   font-size: 1.3rem;
 font-family: 'Lato', sans-serif;
   line-height: 1.4;
-  color: $darkGray;
+  color: #222;
 }
 
 .container {
@@ -164,7 +33,7 @@ font-family: 'Lato', sans-serif;
 
 h1, h2, h3, h4, h5, h6 {
  font-family: 'Epilogue', sans-serif;
-  color: $darkerGray;
+  color: gray;
   font-weight: 700;
 
   line-height: 1.7;
@@ -193,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #222;
 }
 
 p {
@@ -201,14 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+    color: #4C243B;
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
   }
-}
-
+  
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -249,17 +115,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #222;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #eee;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #eee;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -288,7 +154,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #eee;
 
   @include mobile {
     text-align: center;
@@ -324,7 +190,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $#222Gray;
   cursor: pointer;
   font-family: 'Epilogue', sans-serif;
   font-weight: 300;
@@ -375,7 +241,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $#222;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -393,7 +259,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #eee;
 }
 
 .posts > .post:last-child {
@@ -432,7 +298,7 @@ q:before, q:after {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #eee;
 }
 
 footer {
@@ -508,7 +374,7 @@ footer {
 
   /* Tables */
   .table-latitude {
-    width: 100%;
+    width: 100%;}
     caption: {
       text-transform: uppercase;
       font-weight: bold;
@@ -517,7 +383,7 @@ footer {
     }
     thead {
       border-top: 2px solid #fab700;
-      border-bottom: 2px solid #fab700;
+      border-bottom: 2px solid #fab700;}
       th {
         text-transform: uppercase;
         text-align: center;
@@ -525,11 +391,10 @@ footer {
         color: #006ac6;
         border: 1px solid #f1f1f1;
       }
-    }
-    tbody {
-      tr {
+    
+    tr {
         border-bottom: 1px solid #f1f1f1;
-        color: #75787b;
+        color: #75787b;}
         td {
           padding: 10px;
           border: 1px solid #f1f1f1;
@@ -538,20 +403,20 @@ footer {
           padding-left: 10px;
           border: 1px solid #f1f1f1;
         }
-      }
-    }
+      
+    
     tfoot {
       color: #fab700;
       font-style: italic;
-      border-bottom: 2px solid #fab700;
-      tr {
+      border-bottom: 2px solid #fab700;}
+    
         td {
           padding: 10px;
           border: 1px solid #f1f1f1;
         }
-      }
-    }
-  }
+      
+    
+  
 
   /* Tags */
 
