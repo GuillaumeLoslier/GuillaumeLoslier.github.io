@@ -297,6 +297,42 @@ nav {
 // .main
 //
 
+.post h1 {
+        background: #02995575;
+        color: #656073;
+        text-decoration: none;
+      }
+    
+      .post h1:nth-of-type(2) {
+        background: #bd781762;
+        color: #656073;
+      }
+    
+      .post h1:nth-of-type(3) {
+        background: #e26c5a75;
+        color: #656073;
+    
+      }
+      .post h1:nth-of-type(4) {
+        background: #E1D6D9;
+    
+      }
+     .post h1:nth-of-type(5) {
+        background: #656073;
+        color: #C6BEC2;
+      }
+     .post h1:nth-of-type(6) {
+        background: #AC7B84;
+        color: #C6BEC2;
+      }
+     .post h1:nth-of-type(7) {
+        background: #4C243B;
+        color: #C6BEC2;
+      }
+    
+
+
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid #eee;
