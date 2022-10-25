@@ -75,6 +75,45 @@ a {
 	cursor: pointer;
   }
 
+
+
+h1 {
+    margin: 0 2px;
+    padding: 4px 10px;
+    background: #02995575;
+    color: #656073;
+    text-decoration: none;
+  }
+
+  h1:nth-of-type(2) {
+    background: #bd781762;
+    color: #656073;
+  }
+
+  h1:nth-of-type(3) {
+    background: #e26c5a75;
+    color: #656073;
+
+  }
+  h1:nth-of-type(4) {
+    background: #E1D6D9;
+
+  }
+ h1:nth-of-type(5) {
+    background: #656073;
+    color: #C6BEC2;
+  }
+ h1:nth-of-type(6) {
+    background: #AC7B84;
+    color: #C6BEC2;
+  }
+ h1:nth-of-type(7) {
+    background: #4C243B;
+    color: #C6BEC2;
+  }
+
+
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -253,6 +292,11 @@ nav {
   }
 
 
+
+
+
+
+
 //
 // .main
 //
@@ -268,7 +312,7 @@ nav {
 }
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
 blockquote{
-  font-size: 1.4em;
+  font-size: 0.80em;
   width:80%;
   margin:50px auto;
   font-family:Open Sans;
@@ -276,7 +320,7 @@ blockquote{
   color: #555555;
   padding:1.2em 30px 1.2em 75px;
   border-left:8px solid #78C0A8 ;
-  line-height:1.6;
+  line-height:0.80em;
   position: relative;
   background:#EDEDED;
 }
