@@ -329,6 +329,7 @@ blockquote span{
   display:block;
   color:#333333;
   font-style: normal;
+  font-size: 1.2em;
   font-weight: bold;
   margin-top:1em;
 }
@@ -341,14 +342,7 @@ blockquote span{
     border: solid 2px #757575;
     background: #ededed;
   }
-blockquote{
-    --mask: radial-gradient(1em at 50% 1em,#0000 97%,#000) 50% -1em/ 1.85em 100%;
-        -webkit-mask: var(--mask);
-                mask: var(--mask);
-      }
     
-
- 
   blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
