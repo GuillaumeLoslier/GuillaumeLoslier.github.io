@@ -45,12 +45,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-h1 {
+h1 a {
   font-size: 30px;
-  a {
     color: inherit;
   }
-}
 
 h2 {
   font-size: 24px;
@@ -308,20 +306,7 @@ nav {
   padding-bottom: 1em;
   border-bottom: none;
 }
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
-blockquote{
-  font-size: 1.3em;
-  width:80%;
-  margin:50px auto;
-  font-family:Open Sans;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 30px 1.2em 75px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.3em;
-  position: relative;
-  background:#EDEDED;
-}
+
 
 blockquote::before{
   font-family:Arial;
@@ -344,14 +329,14 @@ blockquote span{
   font-weight: bold;
   margin-top:1em;
 }
-  /* blockquote {
+  blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
     font-size: 1.375rem;
     font-style: italic;
     border: solid 2px #757575;
+    background: #ededed;;
 
     
   }
@@ -360,7 +345,7 @@ blockquote span{
 q:before, q:after {
 	content: '';
 	content: none;
-} */
+}
 
   .comments {
     margin-top: 10px;
