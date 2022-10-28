@@ -526,11 +526,12 @@ opacity:0.5
 }
 
 .image-tag {
+  display: inline-flex;
+  align-self: flex-end;
   width: 1.7em;
   height: 1.7em;
   opacity: 0.5;
   fill: #BF4E30;
-align-self: end;
  }
 .image-tag:hover {
 opacity:1
