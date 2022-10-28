@@ -525,11 +525,19 @@ footer {
 opacity:0.5
 }
 
+.image-tag {
+  width: 3em;
+  height: 3em;
+  opacity: 0.5;
+  fill: #BF4E30;
+ }
+.image-tag:hover {
+opacity:1
+}
 
 
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+/* // Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start */
 @import "highlights";
 @import "svg-icons";
 
