@@ -526,8 +526,6 @@ opacity:0.5
 }
 
 .image-tag {
-  display: inline-flex;
-  align-self: flex-end;
   width: 1.7em;
   height: 1.7em;
   opacity: 0.5;
@@ -535,6 +533,11 @@ opacity:0.5
  }
 .image-tag:hover {
 opacity:1
+}
+.intro-blog {
+display: flex;
+align-items: flex-end;
+
 }
 
 
