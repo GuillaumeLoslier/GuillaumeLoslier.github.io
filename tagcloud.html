@@ -12,7 +12,7 @@ layout: default
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
 {% for tag in sortedtags %}
-    <a href="/tag/{{ tag }}/">{{ tag }}</a> {{ posts | size }}<br>
+    <a href="/tag/{{ tag }}/">{{ tag }}</a> {% assign postsCount = tag | last | size %}<br>
 {% endfor %}
   
   
