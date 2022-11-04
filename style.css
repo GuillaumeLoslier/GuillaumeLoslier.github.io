@@ -496,6 +496,56 @@ footer {
     color: #C6BEC2;
   }
 
+  .tag:nth-of-type(8) {
+    background: #bd781762;
+    color: #656073;
+  }
+
+  .tag:nth-of-type(9) {
+    background: #e26c5a75;
+    color: #656073;
+
+  }
+  .tag:nth-of-type(10) {
+    background: #E1D6D9;
+
+  }
+ .tag:nth-of-type(11) {
+    background: #656073;
+    color: #C6BEC2;
+  }
+ .tag:nth-of-type(12) {
+    background: #AC7B84;
+    color: #C6BEC2;
+  }
+ .tag:nth-of-type(13) {
+    background: #4C243B;
+    color: #C6BEC2;
+  }
+  .tag:nth-of-type(14) {
+    background: #e26c5a75;
+    color: #656073;
+
+  }
+  .tag:nth-of-type(15) {
+    background: #E1D6D9;
+
+  }
+ .tag:nth-of-type(16) {
+    background: #656073;
+    color: #C6BEC2;
+  }
+ .tag:nth-of-type(17) {
+    background: #AC7B84;
+    color: #C6BEC2;
+  }
+ .tag:nth-of-type(18) {
+    background: #4C243B;
+    color: #C6BEC2;
+  }
+
+
+
 .tag:hover {
 opacity:0.5
 }
