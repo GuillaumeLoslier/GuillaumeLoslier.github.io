@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tag: design-web
+tag: programmation
 title: Premier billet
 ---
 
