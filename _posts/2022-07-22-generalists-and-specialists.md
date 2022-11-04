@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Generalists and Specialists
-tag: evolution
+tag: évolution
 ---
 
 According to fitness guru Ido Portal, we, as humans, are generalists. We were made to swim, run, crawl, but are increasingly being forced to sit down and diminish the variety of our physical experiences. It is a bit of a sweeping statement, as we are certainly specialized in some ways, as evolutionary scientist Eldredge points out.
