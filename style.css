@@ -481,11 +481,12 @@ footer {
   }
   .tag:nth-of-type(4) {
     background: #E1D6D9;
+    color: #006080;
 
   }
  .tag:nth-of-type(5) {
     background: #656073;
-    color: #C6BEC2;
+    color: #fffacd;
   }
  .tag:nth-of-type(6) {
     background: #AC7B84;
@@ -515,7 +516,7 @@ footer {
 
   }
   .tag:nth-of-type(10) {
-    background: #D1D1D1;
+    background: #7659b6;
 
   }
  .tag:nth-of-type(11) {
