@@ -460,8 +460,8 @@ footer {
   .tag {
     margin: 0 2px;
     padding: 4px 10px;
-    background: #02995575;
-    color: #656073;
+    background: #017642;
+    color: #fefefe;
     font-size: 80%;
     border-radius: 30px;
     font-family: sans-serif;
@@ -470,13 +470,13 @@ footer {
   }
 
   .tag:nth-of-type(2) {
-    background: #bd781762;
-    color: #656073;
+    background: #9e6413;
+    color: #e0ffff;
   }
 
   .tag:nth-of-type(3) {
-    background: #e26c5a75;
-    color: #656073;
+    background: #cb6050;
+    color: #fffacd;
 
   }
   .tag:nth-of-type(4) {
@@ -498,8 +498,8 @@ footer {
   }
 
   .tag:nth-of-type(8) {
-    background: #49516F;
-    color: #fde3a7;
+    background: #83BCA9;
+    color: #674172;
 
   }
 
@@ -524,7 +524,7 @@ footer {
   }
  .tag:nth-of-type(12) {
     background: #DD7373;
-    color: #C6BEC2;
+    color: #1c2a43;
   }
  .tag:nth-of-type(13) {
     background: #3B3561;
