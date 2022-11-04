@@ -491,19 +491,27 @@ footer {
     background: #AC7B84;
     color: #2c3e50;
   }
- .tag:nth-of-type(7) {
+
+  .tag:nth-of-type(7) {
+    background: #F6FEAA;
+    color: #406098;
+  }
+
+  .tag:nth-of-type(8) {
+    background: #49516F;
+    color: #fde3a7;
+
+  }
+
+  .tag:nth-of-type(9) {
     background: #4C243B;
     color: #C6BEC2;
   }
 
-  .tag:nth-of-type(8) {
-    background: #F6FEAA;
-    color: #F6FEAA;
-  }
 
   .tag:nth-of-type(9) {
     background: #49516F;
-    color: #fde3a7;
+    color: #dbceb0;
 
   }
   .tag:nth-of-type(10) {
@@ -512,7 +520,7 @@ footer {
   }
  .tag:nth-of-type(11) {
     background: #51A3A3;
-    color: #C6BEC2;
+    color: #2b2b2b;
   }
  .tag:nth-of-type(12) {
     background: #DD7373;
