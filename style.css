@@ -467,6 +467,9 @@ footer {
     font-family: sans-serif;
     text-decoration: none;
     text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
+    
   }
 
   .tag:nth-of-type(2) {
