@@ -5,7 +5,7 @@ title: Generalists and Specialists
 tag: évolution
 ---
 
-According to fitness guru Ido Portal, we, as humans, are generalists. We were made to swim, run, crawl, but are increasingly being forced to sit down and diminish the variety of our physical experiences. It is a bit of a sweeping statement, as we are certainly specialized in some ways, as evolutionary scientist Eldredge points out.
+In some ways, you could argue that we, as humans, evolved to be generalists, in a physical way. We were made to swim, run, crawl, but are increasingly being forced to sit down and diminish the variety of our physical experiences. But we are certainly specialized in some ways, as evolutionary scientist Eldredge points out.
 
 >Modern humans are curious mixtures of specialists and generalists. We are "specialized" in relatively few features, but they are critical: our hands have opposable thumbs for manipulation; we are bipedal. And in conjunction with our specialized stereoscopic vision and mental powers, we have enormous capabilities: culture has become our basic adaptive approach to the environment, easily transcending our primitive heritage as simple hunter-gatherers. Physically, we otherwise remain rather generalized; we are, for example, omnivores. And it turns out, almost ironically, our culture is an evolutionary specialization which conveys tremendous flexibility when approaching the environment: our evolutionary specializations actually enhance our ecological generality.
 
