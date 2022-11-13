@@ -16,7 +16,6 @@ Dans les activités hors du travail, les déclassés chercheront à exercer la v
 
 
 >L'exemple des musiciens donne à voir la diversité des éléments qui ont été intériorisés antérieurement au travail, dans la famille et le milieu d'origine, et qui peuvent peser sur la façon d'exercer et de percevoir l'activité professionnelle. Il peut s'agir de goûts (pour la musique classique ou le jazz, la musique jouée en solitaire ou en collectif), de valeurs (une conception du musicien comme artiste ou comme professionnel, une valorisation de la souffrance ou du plaisir), d'un rapport au corps (contrôle de soi, ou endurance physique et force), au langage (expansif ou retenu), au temps (organisation rationalisée et totalement consacrée à l'instrument ou pas) ou à l'avenir (sentiment de maîtrise, formulation de projets ou non).
-
 Les expériences passées et les dispositions acquises par le travailleur avant même d'entrer dans un poste, qui constituent son être social, peuvent être réactivées (ou au contraire ignorées, contredites), dans le contexte du travail.  Elles influencent de ce fait ses pratiques professionnelles et la façon dont il perçoit son métier et sa place. L'ajustement ou le désajustement entre la socialisation antérieure et la situation professionnelle permettent d'éclairer le rapport au travail et, ce faisant, le mode d'investissement dans celui-ci.
 
 
