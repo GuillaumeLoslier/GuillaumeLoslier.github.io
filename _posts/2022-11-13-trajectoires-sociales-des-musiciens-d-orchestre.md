@@ -5,7 +5,7 @@ title: Trajectoires sociales des musiciens d'orchestre
 tags: [travail, sociologie, musique]
 ---
 
-Les héritiers, les déclassés, les promus. C'est les trois catégories dans lesquelles placent les musiciens des orchestres qu'a côtoyé le sociologue Bernard Lehmann. Il démontre comment les origines sociales peuvent affecter les dynamiques à l'intérieur de l'orchestre.
+Les héritiers, les déclassés, les promus. C'est les trois catégories dans lesquelles le sociologue Bernard Lehmann place les musiciens des orchestres qu'il a étudiés. Il démontre comment les origines sociales peuvent affecter les dynamiques à l'intérieur de l'orchestre.
 
 Les *héritiers* sont les musiciens enfants d'artistes. Ceux-ci sont bien préparés à la réalité du métier dès leur jeune âge et se considèrent comme des travailleurs ordinaires. Ils se sentent en sécurité dans leur identité de musicien, comme des «poissons dans l'eau». Les *déclassés* sont les enfants de cadres, souvent des femmes, qui apprennent les instruments dits «nobles», les instruments à cordes. Entraînés par des professeurs renommés payés par leurs parents à devenir des solistes, ils réalisent, une fois devenues des musiciennes professionnelles que leur position dans l'orchestre se limitent à de l'accompagnement, à être une tuttiste. Les *promus*, quant à eux ont appris dans les orchestres de région, et ont des parents de classe ouvrière. Souvent des hommes, ils vont apprendre les instruments à vents, et devenir solistes dans l'orchestre du fait de leur choix d'instrument. 
 
