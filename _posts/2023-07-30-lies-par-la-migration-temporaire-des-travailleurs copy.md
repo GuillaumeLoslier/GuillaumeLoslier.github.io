@@ -5,7 +5,7 @@ title: Liés par la migration temporaire des travailleurs
 tags: [travail, politique]
 ---
 
-Je lisais un livre sur la situation des travailleurs migrants dans les pays du Golfe. Il se font exploiter de plusieurs manières. Premièrement par les agences de recrutement, envers lesquelles ils s'endettent avant même de commencer à travailler, ensuite par leurs employeurs, qui leur confisquent leur passeport et leur font travailler des heures impossibles dans des conditions terribles. Pour les hommes, le travail de construction sous la chaleur du désert, pour les femmes, être domestique, des histoires de viol, de vol de salaire, des histoires terribles. Être captif, financièrement, parfois physiquement. Des népalais, kenyans, bangladais, indiens, philippins.
+Je lisais un livre sur la situation des travailleurs migrants dans les pays du Golfe. Il se font exploiter avant même de commencer à travailler par les agences de recrutement, envers lesquelles ils s'endettent, ensuite par leurs employeurs, qui leur confisquent leur passeport et leur font travailler des heures impossibles dans des conditions terribles. Pour les hommes, le travail de construction sous la chaleur du désert, pour les femmes, être domestique, des histoires de viol, de vol de salaire, des histoires terribles. Être captif, financièrement, parfois physiquement. Des népalais, kenyans, bangladais, indiens, philippins.
 
 Certains de ces migrants se font berner, mais beaucoup savent déjà que la situation est difficile là-bas, et pourtant ils continuent d'y aller. Même s'ils ne reçoivent pas autant qu'il est promis par les agences, il reste qu'ils gagnent d'une fois et demi à 3 fois le salaire de leur pays d'origine. 
 
