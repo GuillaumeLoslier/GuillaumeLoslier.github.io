@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Calculs de corps
-tags: [poesie]
+tags: [poésie]
 ---
 
 >Je suis division<br>
