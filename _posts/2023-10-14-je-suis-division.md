@@ -5,13 +5,10 @@ title: Calculs de corps
 tags: [poesie]
 ---
 
->Je suis division
-
->On m'a multiplié
-
->Je n'ai rien soustrait
-
->Je laisse la somme aux autres
+>Je suis division<br>
+On m'a multiplié<br>
+Je n'ai rien soustrait<br>
+Je laisse la somme aux autres<br>
 
 
 Source:
