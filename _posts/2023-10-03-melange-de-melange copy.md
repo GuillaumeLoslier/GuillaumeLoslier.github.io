@@ -11,7 +11,6 @@ Une des distinctions de Montréal et du Québec en général, est son héritage 
 
 
 Source : 
-
 Louisa Blair, Les Anglos : La face cachée de Québec, Tome I : 1608-1850, Québec, Commission de la Capitale Nationale et Les Éditions Sylvain Harvey, 2005, 130 p.
 Louisa Blair, Les Anglos : La face cachée du Québec, Tome II : Depuis 1850, Québec, Commission de la Capitale Nationale et Les Éditions Sylvain Harvey, 2005, 132 p.
 Linteau, P. A. (2017). Une histoire de Montréal. Boréal.
