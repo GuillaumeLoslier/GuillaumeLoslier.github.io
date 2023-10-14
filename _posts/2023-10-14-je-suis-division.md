@@ -6,8 +6,11 @@ tags: [poesie]
 ---
 
 >Je suis division
+
 >On m'a multiplié
+
 >Je n'ai rien soustrait
+
 >Je laisse la somme aux autres
 
 
