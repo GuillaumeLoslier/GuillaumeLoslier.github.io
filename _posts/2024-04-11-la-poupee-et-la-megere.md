@@ -7,7 +7,7 @@ tags: [litterature]
 
 Ces derniers temps, en alternant avec la lecture de romans plus récents, j'ai lu trois livres d'auteurs de la fin du 19e siècle, soit Les misérables de Victor Hugo, La fille du capitaine d'Alexandre Pouchkine et L'île d'Ouranitsa, d'Alexandre Papadiamantis.
 
-Un point en commun de ces trois auteurs provenant de pays différents (France, Russie, Grèce), est le peu de complexité et de richesse qu'ils donnent à leurs personnages féminins, qui se réduisent à des mégères ou des poupées (comme la Thénardier et Cossette dans les Misérables).
+Un point en commun de ces trois auteurs provenant de pays différents (France, Russie, Grèce), est le peu de complexité et de richesse qu'ils donnent à leurs personnages féminins, qui se réduisent à des mégères ou des poupées (comme la Thénardier et Cossette dans les Misérables). Quelle est la personnnalité de la fille du capitaine de Pouchkine? C'est une femme qui attend de se marier, c'est tout.
 
 La description de ces personnages met beaucoup plus d'accent sur leur aspect physique que sur d'autres aspects et suit les conventions de beauté de cette époque. C'était une époque où les hommes européens étaient titillés par les nuques et les chevilles, la blancheur, la délicatesse. Par exemple, le personnage de Lialio dans La nostalgique de Papadiamantis incarne ce genre de poupée qu'ils affectionnaient : 
 
