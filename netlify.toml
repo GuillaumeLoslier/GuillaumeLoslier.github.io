@@ -4,10 +4,3 @@
 
 [build.environment]
   RUBY_VERSION = "3.0.2"
-  NODE_VERSION = "18"
-
-[functions]
-  node_bundler = "esbuild"
-
-[functions.environment]
-  NODE_VERSION = "18"
